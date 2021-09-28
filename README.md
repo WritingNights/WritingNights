@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WritingNights
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in: web development
 - 🌱 I’m currently learning: React
 - 💞️ I’m looking to collaborate on: most anything
